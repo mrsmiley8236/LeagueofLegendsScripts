@@ -1,4 +1,4 @@
-<h1 align="center">🧠 League of Legends - Scriipts 2025</h1>
+<h1 align="center">🧠 League of Legends - Scripts 2025</h1>
 <p align="center">
   Dominate the Rift with automated precision, complete map awareness, and zero bans.
 </p>
